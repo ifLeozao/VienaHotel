@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_cadastro.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_menu.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_menu1.xml" value="0.81" />
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_reserva.xml" value="0.33" />
+        <entry key="..\:/Users/leona/Desktop/Android_Dev/VienaHotelAndroid/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/backgradi.xml" value="0.38697916666666665" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/background.xml" value="0.3527777777777778" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/button.xml" value="0.3527777777777778" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/card_background.xml" value="0.3527777777777778" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/container.xml" value="0.3527777777777778" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/edit_text.xml" value="0.3527777777777778" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.3728205128205128" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_cadastro.xml" value="0.3625" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_location.xml" value="0.2638888888888889" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_menu1.xml" value="0.3625" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_reserva.xml" value="0.1" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/activity_restaurante.xml" value="0.3036649214659686" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/app_bar_menu.xml" value="0.20260416666666667" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/content_menu.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/nav_header_menu.xml" value="0.25" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/menu/activity_menu1_drawer.xml" value="0.37083333333333335" />
+        <entry key="..\:/VienaHotelAndroid/app/src/main/res/menu/menu.xml" value="0.37083333333333335" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.3074074074074074" />
+        <entry key="app/src/main/res/drawable/card_background.xml" value="0.3074074074074074" />
+        <entry key="app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_location.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_menu1.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/layout/activity_reserva.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/layout/activity_restaurante.xml" value="0.28804347826086957" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
